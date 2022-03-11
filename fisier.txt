@@ -1,0 +1,6 @@
+1 Orez 100 7
+2 Burger 200 5
+3 Supa 50 3
+4 Legume 70 2
+
+
